@@ -1,1 +1,1 @@
-- Initial release
+- Update source and issue links
