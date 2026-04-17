@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "touys:camcorder",
-		"particle": "touys:camcorder"
+		"0": "touys:item/camcorder",
+		"particle": "touys:item/camcorder"
 	},
 	"elements": [
 		{
