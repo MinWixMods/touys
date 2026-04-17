@@ -68,7 +68,6 @@ publishMods {
         }
     }
 
-    /*
     curseforge {
         accessToken = curseforgeToken
         projectId = "1486358"
@@ -78,5 +77,4 @@ publishMods {
         javaVersions.add(JavaVersion.VERSION_21)
         requires("sable")
     }
-    */
 }
